@@ -1,9 +1,9 @@
 Hello, I'm a self taught guy and current working on:
--HTML
--CSS
--Javascript (where I'm at)
--C#
--3D Modelling 
+HTML
+CSS
+Javascript (where I'm at)
+C#
+3D Modelling 
 
 I'm also learning anatomy and music, although those aren't worth mentioning for the time being.
 
